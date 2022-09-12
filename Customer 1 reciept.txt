@@ -1,0 +1,8 @@
+Date: 12/09/2022
+Customer: Customer 1
+-------------------------------------------------
+Name                    Quantity      Total Price
+Apple Juice          1          2.0
+Orange Juice          2          6.0
+-------------------------------------------------
+-----------THANK YOU FOR YOUR PURCHASE!----------

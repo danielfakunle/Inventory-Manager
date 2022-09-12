@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Sep 12 15:50:33 EDT 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance a816c00e-0183-3340-e03e-00000f039a00 
+on database directory C:\Users\Daniel Fakunle\OneDrive - purdue.edu\Documents\Archive\Village\Courses\IB CS SL\Java_Programs\InventoryManager\StoreName with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2a139a55 
+Loaded from file:/C:/Users/Daniel%20Fakunle/OneDrive%20-%20purdue.edu/Documents/Archive/Village/Courses/IB%20CS%20SL/Java_Programs/InventoryManager/lib/JAVADB_DRIVER_LABEL/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=17.0.4.1+1-LTS-2
+user.dir=C:\Users\Daniel Fakunle\OneDrive - purdue.edu\Documents\Archive\Village\Courses\IB CS SL\Java_Programs\InventoryManager
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
